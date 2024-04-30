@@ -11,7 +11,7 @@
 
 #### Sales Operation and Dashboard | Tableau <div style="text-align: right;"> Nov 2023 - Nov 2023 </div>
 
-#### [Time Series Analysis: Geomagnetic Pole Intensities](https://github.com/danielsye/Geomagnetic_Pole_Intensities/tree/main) | R <div style="text-align: right;"> Winter 2023 - University of Toronto </div>
+#### [Time Series Analysis: Geomagnetic Pole Intensities](https://github.com/danielsye/Zherong_Ye_Portfolio/tree/main/Geomagnetic_Pole_Intensities) | R <div style="text-align: right;"> Winter 2023 - University of Toronto </div>
 In this project, we develop a forecasting methodology based on
 the Box-Jenkins framework to predict the magnetic intensities of the North and South poles. Our analysis aims to predict the behavior of the Earth’s magnetic field and address the geomagnetic secular variation. 
 This research is essential for mitigating and adapting toThis research is essential for mitigating and adapting to
@@ -20,3 +20,6 @@ the impacts of magnetic field changes on navigation systems, industries, and sat
 ## Certification
 #### Google Analytics Certification - March 2024
 #### Tableau Desktop Specialist - November 2023
+
+https://github.com/danielsye/Zherong_Ye_Portfolio/tree/main/Geomagnetic_Pole_Intensities
+
