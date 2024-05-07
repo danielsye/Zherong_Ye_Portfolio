@@ -7,7 +7,7 @@
 
 #### Analytics in Retail Banking | SQL <div style="text-align: right;"> Dec 2023 - Jan 2024 </div>
 
-#### Marketing Campaign Analysis | Python <div style="text-align: right;"> Nov 2023 - Dec 2023 </div>
+#### [Marketing Campaign Analysis](https://github.com/danielsye/MARKETING_CAMPAIGN_ANALYSIS/blob/main/code.ipynb) | Python <div style="text-align: right;"> Nov 2023 - Dec 2023 </div>
 
 #### Sales Operation and Dashboard | Tableau <div style="text-align: right;"> Nov 2023 - Nov 2023 </div>
 
